@@ -56,4 +56,23 @@
               <tags>italy, boundaries, istat, administrative, confini, italia, regioni, province, comuni, cartografia, popolazione, census, griglia, eurostat, demographic, population, grid</tags>
               <category>Vector</category>
       </pyqgis_plugin>
+
+      <pyqgis_plugin name="CatastoIT GML Merger Pro" version="0.3c">
+              <description>CatastoIT_GML_Merger_Pro</description>
+              <about>CatastoIT GML Merger Pro è un plugin avanzato per QGIS che consente di scaricare, estrarre e unire file GML del catasto italiano. Il plugin permette di scaricare i file di mappa (MAP) e particelle (PLE), convertendoli nel formato GPKG e estrae il foglio e la particella in attributi separati per un'integrazione completa nei flussi di lavoro GIS. Il plugin lavora in Background. EN: It is an advanced plugin for QGIS that allows downloading, extracting, and merging GML files from the Italian land registry. The plugin enables working with map files (MAP) and parcel files (PLE), converting them into GPKG format, and extracts the sheet and parcel into separate attributes for seamless integration into GIS workflows.</about>
+              <version>0.3c</version>
+              <qgis_minimum_version>3.22</qgis_minimum_version>
+              <homepage>https://github.com/pigreco/CatastoIT_GML_Merger_Pro/blob/main/README.md</homepage>
+              <file_name>CatastoIT-GML-Merger-Pro.zip</file_name>
+              <icon>icons/icon.png</icon>
+              <author_name>Salvatore Fiandaca, Giulio Fattori</author_name>
+              <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/CatastoIT-GML-Merger-Pro.zip</download_url>
+              <uploaded_by>pigreco</uploaded_by>
+              <experimental>False</experimental>
+              <deprecated>False</deprecated>
+              <tracker>https://github.com/pigreco/CatastoIT_GML_Merger_Pro/issues</tracker>
+              <repository>https://github.com/pigreco/CatastoIT_GML_Merger_Pro/blob/main/README.md</repository>
+              <tags>catasto, particelle, fogli, regione, italia, vector, gpkg, geojson, shp</tags>
+              <category>Plugins</category>
+      </pyqgis_plugin>
 </plugins>

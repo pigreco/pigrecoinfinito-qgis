@@ -22,6 +22,24 @@ Plugin avanzato per scaricare, estrarre e unire file GML del catasto italiano co
 
 **Requisiti:** QGIS 3.22+
 
+### ISTAT Boundaries Downloader
+**Versione:** 0.2 | **Autore:** Salvatore Fiandaca | **Categoria:** Vector
+
+Plugin QGIS per scaricare confini amministrativi italiani tramite le API di onData con date di riferimento dal 1991 al 2025.
+
+**Funzionalità:** Download confini in multipli formati (Shapefile, GeoPackage, CSV, KML, KMZ) • Filtri avanzati per regione e provincia • Caricamento automatico in QGIS • Supporto ripartizioni geografiche • Interfaccia semplice e intuitiva
+
+**Requisiti:** QGIS 3.20+
+
+### GeoPackage Project Manager
+**Versione:** 3.7.1 | **Autore:** Salvatore Fiandaca | **Categoria:** Database
+
+Plugin per gestione completa dei progetti QGIS all'interno di file GeoPackage con funzionalità avanzate.
+
+**Funzionalità:** Salvataggio e caricamento progetti • Rinomina, duplica, elimina progetti • Clonazione GeoPackage con aggiornamento percorsi • Esportazione QGS/QGZ • Versioning automatico e timestamp • Gestione stili layer • Visualizzazione relazioni • Ottimizzazione database • Sistema metadati con tooltip • Protezione progetti con trigger SQLite
+
+**Requisiti:** QGIS 3.0+
+
 ## 🚀 Installazione
 
 ### Metodo 1: Repository Manager QGIS (Consigliato)

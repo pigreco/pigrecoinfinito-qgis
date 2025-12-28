@@ -2,11 +2,11 @@
 
 Repository centralizzato per scaricare e installare plugin QGIS specializzati per l'elaborazione di dati geografici e catastali italiani.
 
-## � Indice
+## Indice
 
 - [Catalogo Plugin QGIS 🗺️](#catalogo-plugin-qgis-️)
-  - [� Indice](#-indice)
-  - [�📦 Plugin Disponibili](#-plugin-disponibili)
+  - [Indice](#indice)
+  - [📦 Plugin Disponibili](#-plugin-disponibili)
     - [Confini Amministrativi ISTAT](#confini-amministrativi-istat)
     - [CatastoIT GML Merger Pro](#catastoit-gml-merger-pro)
     - [ISTAT Boundaries Downloader](#istat-boundaries-downloader)
@@ -21,7 +21,7 @@ Repository centralizzato per scaricare e installare plugin QGIS specializzati pe
   - [📜 Licenza](#-licenza)
   - [⭐ Apprezzi?](#-apprezzi)
 
-## �📦 Plugin Disponibili
+## 📦 Plugin Disponibili
 
 ### Confini Amministrativi ISTAT
 **Versione:** 1.1.0 | **Autore:** Totò Fiandaca | **Categoria:** Vector

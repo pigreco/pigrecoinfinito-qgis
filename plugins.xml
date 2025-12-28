@@ -37,4 +37,23 @@
           <tags>esempio, test, qgis</tags>
           <category>Plugins</category>
     </pyqgis_plugin>
+
+      <pyqgis_plugin name="Confini Amministrativi ISTAT" version="1.1.0">
+              <description>Plugin per scaricare confini amministrativi ISTAT e griglia di popolazione 2021 su standard europeo</description>
+              <about>Questo plugin permette di scaricare direttamente i confini amministrativi italiani dal sito ISTAT e la griglia di popolazione 2021 su standard europeo (Eurostat). Supporta regioni, province, comuni e ripartizioni geografiche sia in versione generalizzata che non generalizzata. Include anche la griglia di popolazione del Censimento 2021 con 13 variabili censuarie secondo il Regolamento UE 1799/2018. I dati sono aggiornati al 1° gennaio 2025 e vengono scaricati direttamente dai server ISTAT.</about>
+              <version>1.1.0</version>
+              <qgis_minimum_version>3.0</qgis_minimum_version>
+              <homepage>https://github.com/pigreco/istat_confini_plugin</homepage>
+              <file_name>istat-confini-plugin.zip</file_name>
+              <icon>icons/icon.png</icon>
+              <author_name>Totò Fiandaca</author_name>
+              <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/istat-confini-plugin.zip</download_url>
+              <uploaded_by>pigreco</uploaded_by>
+              <experimental>False</experimental>
+              <deprecated>False</deprecated>
+              <tracker>https://github.com/pigreco/istat_confini_plugin/issues</tracker>
+              <repository>https://github.com/pigreco/istat_confini_plugin</repository>
+              <tags>italy, boundaries, istat, administrative, confini, italia, regioni, province, comuni, cartografia, popolazione, census, griglia, eurostat, demographic, population, grid</tags>
+              <category>Vector</category>
+      </pyqgis_plugin>
 </plugins>

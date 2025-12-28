@@ -1,3 +1,7 @@
 title: Catalogo Plugin QGIS - pigrecoinfinito
 description: Repository centralizzato per plugin QGIS specializzati per l'elaborazione di dati geografici e catastali italiani
 theme: jekyll-theme-minimal
+author: Salvatore Fiandaca (Totò)
+github_username: pigreco
+show_downloads: true
+logo: /assets/logo.png

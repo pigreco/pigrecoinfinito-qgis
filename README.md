@@ -62,11 +62,13 @@ Plugin per gestione completa dei progetti QGIS all'interno di file GeoPackage co
 ## 🚀 Installazione
 
 ### Metodo 1: Repository Manager QGIS (Consigliato)
-- Apri QGIS → Estensioni → Gestisci e installa estensioni
+- Apri QGIS → Plugin → Gestisci e installa Plugin...
 - Clicca Impostazioni → Aggiungi repository
 - Incolla: `https://pigreco.github.io/pigrecoinfinito-qgis/plugins.xml`
 - Dai un nome al repository e clicca OK
 - Seleziona il plugin e clicca Installa
+
+![](imgs.png)
 
 ### Metodo 2: Download Manuale
 - Scarica il file .zip del plugin

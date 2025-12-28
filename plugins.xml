@@ -7,7 +7,7 @@
               <qgis_minimum_version>3.0</qgis_minimum_version>
               <homepage>https://github.com/pigreco/istat_confini_plugin</homepage>
               <file_name>istat-confini-plugin.zip</file_name>
-              <icon>icons/icon.png</icon>
+              <icon>https://raw.githubusercontent.com/pigreco/istat_confini_plugin/main/icon.png</icon>
               <author_name>Totò Fiandaca</author_name>
               <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/istat-confini-plugin.zip</download_url>
               <uploaded_by>pigreco</uploaded_by>
@@ -26,7 +26,7 @@
               <qgis_minimum_version>3.22</qgis_minimum_version>
               <homepage>https://github.com/pigreco/CatastoIT_GML_Merger_Pro/blob/main/README.md</homepage>
               <file_name>CatastoIT-GML-Merger-Pro.zip</file_name>
-              <icon>icons/icon.png</icon>
+              <icon>https://raw.githubusercontent.com/pigreco/CatastoIT_GML_Merger_Pro/main/icon.png</icon>
               <author_name>Salvatore Fiandaca, Giulio Fattori</author_name>
               <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/CatastoIT-GML-Merger-Pro.zip</download_url>
               <uploaded_by>pigreco</uploaded_by>
@@ -45,7 +45,7 @@
               <qgis_minimum_version>3.20</qgis_minimum_version>
               <homepage>https://github.com/ondata/istat_boundaries_downloader</homepage>
               <file_name>istat-boundaries-downloader.zip</file_name>
-              <icon>icons/icon.png</icon>
+              <icon>https://raw.githubusercontent.com/ondata/istat_boundaries_downloader/main/icon.svg</icon>
               <author_name>Salvatore Fiandaca</author_name>
               <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/istat-boundaries-downloader.zip</download_url>
               <uploaded_by>pigreco</uploaded_by>
@@ -64,7 +64,7 @@
               <qgis_minimum_version>3.0</qgis_minimum_version>
               <homepage>https://github.com/pigreco/gpkg_project_manager</homepage>
               <file_name>gpkg-project-manager.zip</file_name>
-              <icon>icons/icon.png</icon>
+              <icon>https://raw.githubusercontent.com/pigreco/gpkg_project_manager/main/icon.png</icon>
               <author_name>Salvatore Fiandaca</author_name>
               <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/gpkg-project-manager.zip</download_url>
               <uploaded_by>pigreco</uploaded_by>

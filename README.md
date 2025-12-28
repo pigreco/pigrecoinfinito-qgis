@@ -74,7 +74,7 @@ Plugin per gestione completa dei progetti QGIS all'interno di file GeoPackage co
 - Scarica il file .zip del plugin
 - Estrai nella cartella dei plugin QGIS
 - Riavvia QGIS
-- Attiva da Estensioni → Gestisci e installa estensioni
+- Attiva da Plugin → Gestisci e installa Plugin...
 
 ## 📁 File del Repository
 - `plugins.xml` - Catalogo ufficiale dei plugin

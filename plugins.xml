@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="Plugin Esempio 1" version="1.0.0">
+          <description>Primo plugin di esempio per il catalogo</description>
+          <about>Questo è un plugin di esempio per dimostrare la struttura del catalogo QGIS. È possibile aggiungere funzionalità e descrizioni dettagliate qui.</about>
+          <version>1.0.0</version>
+          <qgis_minimum_version>3.28</qgis_minimum_version>
+          <homepage>https://github.com/pigreco/pigrecoinfinito-qgis</homepage>
+          <file_name>plugin-esempio-1.zip</file_name>
+          <icon>icons/icon-1.png</icon>
+          <author_name>pigreco</author_name>
+          <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/plugin-esempio-1.zip</download_url>
+          <uploaded_by>pigreco</uploaded_by>
+          <experimental>False</experimental>
+          <deprecated>False</deprecated>
+          <tracker>https://github.com/pigreco/pigrecoinfinito-qgis/issues</tracker>
+          <repository>https://github.com/pigreco/pigrecoinfinito-qgis</repository>
+          <tags>esempio, test, qgis</tags>
+          <category>Plugins</category>
+    </pyqgis_plugin>
+
+    <pyqgis_plugin name="Plugin Esempio 2" version="1.0.0">
+          <description>Secondo plugin di esempio per il catalogo</description>
+          <about>Questo è un secondo plugin di esempio che mostra come aggiungere più plugin al catalogo. Puoi personalizzare nome, versione, descrizione e link download.</about>
+          <version>1.0.0</version>
+          <qgis_minimum_version>3.28</qgis_minimum_version>
+          <homepage>https://github.com/pigreco/pigrecoinfinito-qgis</homepage>
+          <file_name>plugin-esempio-2.zip</file_name>
+          <icon>icons/icon-2.png</icon>
+          <author_name>pigreco</author_name>
+          <download_url>https://pigreco.github.io/pigrecoinfinito-qgis/plugin-esempio-2.zip</download_url>
+          <uploaded_by>pigreco</uploaded_by>
+          <experimental>False</experimental>
+          <deprecated>False</deprecated>
+          <tracker>https://github.com/pigreco/pigrecoinfinito-qgis/issues</tracker>
+          <repository>https://github.com/pigreco/pigrecoinfinito-qgis</repository>
+          <tags>esempio, test, qgis</tags>
+          <category>Plugins</category>
+    </pyqgis_plugin>
+</plugins>
